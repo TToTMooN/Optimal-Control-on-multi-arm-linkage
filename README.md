@@ -6,11 +6,13 @@
         - [Single arm system](#single-arm-system)
         - [Two-arm system](#two-arm-system)
         - [General method of for multi-arm system](#general-method-of-for-multi-arm-system)
-        - [Optimal Control Design](#optimal-control-design)
+    - [Optimal Control Design](#optimal-control-design)
 
 ## Overview
 
 The purpose of this project is to test how optimal control methods can work in nonlinear systems.
+
+![test figure here](https://github.com/TToTMooN/Optimal-Control-on-multi-arm-linkage/blob/master/testFigure.jpeg)
 
 ## Arm linkage system modelling
 
@@ -26,4 +28,4 @@ Things becomes more difficult when more arms are introduced. The equation of mot
 
 We will use projected Newton Euler Equation to solve for eom of multi-arm system.
 
-### Optimal Control Design
+## Optimal Control Design
