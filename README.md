@@ -1,5 +1,13 @@
 # Optimal-Control-on-multi-arm-linkage
 
+- [Optimal-Control-on-multi-arm-linkage](#optimal-control-on-multi-arm-linkage)
+    - [Overview](#overview)
+    - [Arm linkage system modelling](#arm-linkage-system-modelling)
+        - [Single arm system](#single-arm-system)
+        - [Two-arm system](#two-arm-system)
+        - [General method of for multi-arm system](#general-method-of-for-multi-arm-system)
+        - [Optimal Control Design](#optimal-control-design)
+
 ## Overview
 
 The purpose of this project is to test how optimal control methods can work in nonlinear systems.
