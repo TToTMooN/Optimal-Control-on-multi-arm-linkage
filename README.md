@@ -5,7 +5,7 @@
 3. [Optimal Control Design](#control-design)
 
 
-The purpose of this project is to test how optimal control methods can work in nonlinear systems.
+### Overview <a name="overview"></a>
 
 The purpose of this project is to test how optimal control methods can work in nonlinear systems.
 
