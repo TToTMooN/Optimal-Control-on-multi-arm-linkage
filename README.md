@@ -1,7 +1,7 @@
 [//]: # (comment like this)
 
 <!---
-![Add figure here](https://github.com/TToTMooN/Optimal-Control-on-multi-arm-linkage/blob/master/testFigure.jpeg)
+![Add figure here](https://github.com/TToTMooN/Optimal-Control-on-multi-arm-linkage/blob/master/figures/testFigure.jpeg)
 --->
 
 <!---
