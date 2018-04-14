@@ -34,14 +34,22 @@ Assume each arm has a mass of **m**, length of **2L**, and an inertia of **j** w
 
 ![single-arm](figures/single-arm.jpg)
 
+Since only torque, gravity of arm are considered in the motion equation, the equation of motion for this single-input-single-output(SISO) system is quite simple:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\ddot{\theta_1}=\frac{3}{4ml^2}(\tau&space;-&space;mg\cos(\theta_1))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\ddot{\theta_1}=\frac{3}{4ml^2}(\tau&space;-&space;mg\cos(\theta_1))" title="\ddot{\theta_1}=\frac{3}{4ml^2}(\tau - mg\cos(\theta_1))" /></a>
+
 ### Two-arm system
 
 Things becomes more difficult when more arms are introduced. The equation of motion is complex since centrifugal and Coriolis force are playing an important role. We will introduce a general way to generate the eom in later section. But now, we are using Lagrangian mechanics to solve this system.
 
-![single-arm](figures/double-arm.jpg)
+![double-arm](figures/double-arm.jpg)
+
+
 
 ### General method of for multi-arm system
 
 We will use projected Newton Euler Equation to solve for eom of multi-arm system.
+
+(to be continued...)
 
 ## Optimal Control Design
