@@ -32,7 +32,7 @@ To start with, we first start with a single arm system. The physics for this is 
 
 Assume each arm has a mass of **m**, length of **2L**, and an inertia of **j** with respect to its center of gravity. A torch input **&tau;** is used to control the arm angle **&theta;**, as shown in the figure below.
 
-![single-arm](figures/single-arm.jpeg)
+![single-arm](figures/single-arm.jpg)
 
 ### Two-arm system
 
