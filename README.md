@@ -38,6 +38,8 @@ Assume each arm has a mass of **m**, length of **2L**, and an inertia of **j** w
 
 Things becomes more difficult when more arms are introduced. The equation of motion is complex since centrifugal and Coriolis force are playing an important role. We will introduce a general way to generate the eom in later section. But now, we are using Lagrangian mechanics to solve this system.
 
+![single-arm](figures/double-arm.jpg)
+
 ### General method of for multi-arm system
 
 We will use projected Newton Euler Equation to solve for eom of multi-arm system.
